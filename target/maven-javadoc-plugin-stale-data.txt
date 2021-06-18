@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Hassan Emad/.m2/repository/mysql/mysql-connector-java/5.1.49/mysql-connector-java-5.1.49.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Hassan Emad/Documents/NetBeansProjects/Restaurants_MAVEN_DB/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Hassan Emad/Documents/NetBeansProjects/Restaurants_MAVEN_DB/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Restaurants_MAVEN_DB 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Hassan Emad/Documents/NetBeansProjects/Restaurants_MAVEN_DB/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Restaurants_MAVEN_DB 1.0-SNAPSHOT API'
+com.mycompany.restaurants_maven_db
+dao
+'C:/Users/Hassan Emad/Documents/NetBeansProjects/Restaurants_MAVEN_DB/src/main/java/com/mycompany/restaurants_maven_db/App.java'
+'C:/Users/Hassan Emad/Documents/NetBeansProjects/Restaurants_MAVEN_DB/src/main/java/dao/DBConnection.java'
+'C:/Users/Hassan Emad/Documents/NetBeansProjects/Restaurants_MAVEN_DB/src/main/java/dao/DBMethods.java'
+C:\Users\Hassan Emad\.m2\repository\mysql\mysql-connector-java\5.1.49\mysql-connector-java-5.1.49.jar = 1621724995025
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\src\main\java = 1624027714147
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\allclasses-frame.html = 1624045174044
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\allclasses-noframe.html = 1624045174044
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\constant-values.html = 1624045173943
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\deprecated-list.html = 1624045174028
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\help-doc.html = 1624045174075
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\index-all.html = 1624045174028
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\index.html = 1624045174059
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\overview-frame.html = 1624045173881
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\overview-summary.html = 1624045174059
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\overview-tree.html = 1624045174012
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\package-list = 1624045173881
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\script.js = 1624045174081
+C:\Users\Hassan Emad\Documents\NetBeansProjects\Restaurants_MAVEN_DB\target\site\apidocs\stylesheet.css = 1624045174075

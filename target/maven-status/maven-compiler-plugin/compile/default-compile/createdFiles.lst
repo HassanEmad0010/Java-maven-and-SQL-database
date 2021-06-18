@@ -1,0 +1,4 @@
+com\mycompany\restaurants_maven_db\App.class
+dao\DBConnection.class
+dao\DBMethods.class
+model\Food.class
